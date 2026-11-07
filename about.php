@@ -76,7 +76,7 @@ $currentYear = date('Y');
 
             <div class="nav-links">
                 <a href="#about" class="nav-link active">About</a>
-                <a href="projects.php" class="nav-link portfolio-link">Portfolio <span>&nearr;</span></a>
+                <a href="projects.php" class="nav-link portfolio-link">Projects <span>&nearr;</span></a>
             </div>
         </nav>
     </header>
