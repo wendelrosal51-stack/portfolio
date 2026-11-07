@@ -194,19 +194,6 @@ Technologies & Techniques:
             ]
         ]
     ],
-    [
-        'name' => 'Board of Doom',
-        'category' => 'Game Development',
-        'description' => 'Turn-based interactive board game prototype built in Unity, featuring custom mechanics and dynamic event triggers.',
-        'tags' => ['Unity', 'C#', 'Game Design'],
-        'live_url' => '', // Add itch.io or WebGL build link here if available
-        'images' => [
-            [
-                'src' => 'uploads/projects/board-of-doom.png',
-                'alt' => 'Board of Doom game screen'
-            ]
-        ]
-    ]
 ];
 ?>
 <!DOCTYPE html>
